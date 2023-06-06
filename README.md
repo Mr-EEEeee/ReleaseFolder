@@ -12,6 +12,10 @@ right click a folder,create an option to release the folder
 ---
 对文件夹单击右键，出现MoveContentsToParent选项，点击后将内层所有文件夹移至当前目录，如果源文件夹已空则将其删除，否则保留源文件夹。
 
+安装
+---
+双击.reg文件，点击是
+
 具体应用场景及演示
 ---
 ![image](https://github.com/Mr-EEEeee/ReleaseFolder/assets/82107297/4644f599-535b-4a0b-8c56-16449747dd2c)
