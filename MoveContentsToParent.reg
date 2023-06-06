@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\shell\MoveContentsToParent]
+@="移动内容到上级目录并删除文件夹"
+
+[HKEY_CLASSES_ROOT\Directory\shell\MoveContentsToParent\command]
+@="cmd.exe /c \"for /D %%A in (\"%1\\*\") do move \"%%A\" \"%~1\\..\" & rmdir \"%1\"\""
