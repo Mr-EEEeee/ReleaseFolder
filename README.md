@@ -1,3 +1,6 @@
+在自己电脑上完善了功能，随缘上传更新，以下为初始版本
+
+
 # ReleaseFolder
 right click a folder,create an option to release the folder
 
