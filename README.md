@@ -1,8 +1,11 @@
-完善了功能，上传了V2更新，以下为初始版本介绍
+完善了功能，已上传V2更新，将文件夹操作分为提出文件夹和释放文件夹，前者功能即为初版功能，后者功能是将选中文件夹内的所有内容移动至当前目录并删除原文件夹。整体健壮性尚可，在文件夹名重复时有小问题，目前不准备修改，可通过重命名解决。
+![image](https://github.com/Mr-EEEeee/ReleaseFolder/assets/82107297/4eefdcd2-a2c8-4419-aa69-2bc904ccd1ef)
+
+以下为初始版本介绍
 
 
 # ReleaseFolder
-right click a folder,create an option to release the folder
+right click a folder,add an option to release the folder
 
 由于有时解压文件或安装文件的路径设置冗余，在电脑中添加此功能键一步删除重复层的文件夹，简化操作。
 
